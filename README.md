@@ -4,7 +4,7 @@
 [![Maven](https://img.shields.io/badge/Build-Apache%20Maven%203.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins%20Declarative-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Tomcat](https://img.shields.io/badge/Server-Apache%20Tomcat%2010.1%20(Port%208081)-F8DC75?style=flat&logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
-[![Tests](https://img.shields.io/badge/JUnit-13%20Passing-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/)
+[![Tests](https://img.shields.io/badge/JUnit-19%20Passing-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 An end-to-end Continuous Integration and Continuous Deployment (CI/CD) delivery pipeline for a Java Web Application (**Student Feedback Portal**) using Git, Maven, Jenkins, and Apache Tomcat with automated testing, artifact archiving, post-deployment health verification, and failure rollback recovery.
@@ -86,7 +86,6 @@ iStudio-Project/
 │   ├── architecture.md                 # System architecture & SDLC stages
 │   ├── setup-guide.md                  # Ubuntu Linux VM setup guide
 │   ├── rollback-runbook.md             # Runbooks for 3 failure scenarios
-│   ├── video-presentation-script.md    # 5-10 minute presentation script
 │   └── screenshots/
 │       └── README.md                   # Evidence catalogue guide
 └── README.md
@@ -172,11 +171,10 @@ The project demonstrates 3 failure handling paths (see [docs/rollback-runbook.md
 - [x] **Git Repository**: Initialized with branching model (`main`, `dev`, `feature/*`) and conventional commits.
 - [x] **Working Java Maven Application**: Model, service, servlets, and responsive JSP frontend.
 - [x] **Jenkins Declarative Pipeline**: 7-stage `Jenkinsfile` with quality gates and artifact archiving.
-- [x] **Unit Test Suite**: 13 automated tests covering models, services, CSV parsing, and `/health` servlet.
+- [x] **Unit Test Suite**: 19 automated tests covering models, services, CSV parsing, and servlets.
 - [x] **Sample Dataset**: `data/sample-feedback.csv` containing 25 realistic records.
 - [x] **Automated Deployment & Rollback Scripts**: `deploy-to-tomcat.sh`, `health-check.sh`, `rollback.sh`.
-- [x] **Complete Documentation**:
+- [x] **Complete Technical Documentation**:
   - [docs/architecture.md](docs/architecture.md)
   - [docs/setup-guide.md](docs/setup-guide.md)
   - [docs/rollback-runbook.md](docs/rollback-runbook.md)
-  - [docs/video-presentation-script.md](docs/video-presentation-script.md)
