@@ -1,5 +1,7 @@
-# DevOps Problem Statement & Documents
+# DevOps Assignment Documents & PDFs
 DevOps_Project (1).pdf
+DevOps Assignment 1 Linux Git.pdf
+DevOps Assignment 2 Maven Tomcat Jenkins.pdf
 *.pdf
 *.doc
 *.docx
@@ -47,6 +49,10 @@ logs/
 *.backup
 *.previous
 
-# Local Submission Artifacts
+# Local Submission Deliverables & HTML Templates
 submission/
+*Report.html
+*template.html
+
+
 
