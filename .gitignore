@@ -46,3 +46,7 @@ logs/
 *.bak
 *.backup
 *.previous
+
+# Local Submission Artifacts
+submission/
+
