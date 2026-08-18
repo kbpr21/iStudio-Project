@@ -1,24 +1,48 @@
-# Maven build artifacts
+# DevOps Problem Statement & Documents
+DevOps_Project (1).pdf
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Build & Package Artifacts
 target/
 *.war
 *.jar
 *.class
+*.nar
 
-# IDE and Editor files
+# Archives & Binaries
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# IDE & Editor Configurations
 .idea/
 *.iml
 .vscode/
 *.swp
+*.swo
 *~
+.settings/
+.project
+.classpath
 
-# Operating System files
+# Operating System Files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Logs
+# Logs & Monitoring
 *.log
 logs/
+*.out
+/tmp/
+/temp/
 
-# Temporary / Scratch files
-tmp/
-temp/
+# Backup Files
+*.bak
+*.backup
+*.previous
