@@ -1,0 +1,24 @@
+# Maven build artifacts
+target/
+*.war
+*.jar
+*.class
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary / Scratch files
+tmp/
+temp/

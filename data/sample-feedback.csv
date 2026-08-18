@@ -1,0 +1,26 @@
+name,email,feedback,rating,date
+Asha,asha@example.com,Great mentoring support and clear CI/CD concepts explained.,5,2026-07-01
+Rahul Sharma,rahul.s@example.com,Hands-on sessions on Jenkins and Docker were very insightful.,5,2026-07-02
+Priya Patel,priya.p@example.com,The Maven build lifecycle and Tomcat deployment walkthrough was crystal clear.,4,2026-07-03
+Amit Kumar,amit.k@example.com,Would love more practice exercises on declarative pipeline syntax.,4,2026-07-04
+Sneha Rao,sneha.r@example.com,Excellent explanation of quality gates and automated rollback strategies.,5,2026-07-05
+Vikram Singh,vikram.s@example.com,Good pace and structured learning modules for DevOps beginners.,4,2026-07-06
+Ananya Desai,ananya.d@example.com,The automated health check stage after deployment saved lots of debugging time.,5,2026-07-07
+Rohan Gupta,rohan.g@example.com,Loved the Git branching strategy and commit convention guidelines.,5,2026-07-08
+Pooja Nair,pooja.n@example.com,Very helpful runbooks for failure simulation and rollback recovery.,4,2026-07-09
+Karan Verma,karan.v@example.com,Great real-world SDLC project experience with automated tests.,5,2026-07-10
+Divya Iyer,divya.i@example.com,Clear step-by-step documentation for Ubuntu Linux server setup.,5,2026-07-11
+Manoj Joshi,manoj.j@example.com,Artifact archiving in Jenkins makes tracing previous builds seamless.,4,2026-07-12
+Kavita Reddy,kavita.r@example.com,The feedback dashboard UI is clean, intuitive, and responsive.,5,2026-07-13
+Suresh Menon,suresh.m@example.com,Understood how Maven plugins package Java applications into WAR files.,4,2026-07-14
+Neha Bansal,neha.b@example.com,Pipeline failure alerts helped catch unit test regressions instantly.,5,2026-07-15
+Aditya Nair,aditya.n@example.com,Comprehensive setup guide with detailed port configuration notes.,5,2026-07-16
+Meera Nair,meera.n@example.com,Well-structured internship curriculum with practical industry tools.,4,2026-07-17
+Deepak Chawla,deepak.c@example.com,The rollback runbook clearly outlines steps for quick disaster recovery.,5,2026-07-18
+Swati Kulkarni,swati.k@example.com,Awesome learning curve from manual deployment to complete CI/CD automation.,5,2026-07-19
+Arjun Das,arjun.d@example.com,Very practical coverage of Linux commands, systemd services, and log inspection.,5,2026-07-20
+Tanya Sen,tanya.s@example.com,Continuous deployment to Tomcat makes releasing new features effortless.,4,2026-07-21
+Gaurav Bhatia,gaurav.b@example.com,Great emphasis on test-driven development and clean code practices.,5,2026-07-22
+Ritu Saxena,ritu.s@example.com,Health check curl verification ensures broken builds never reach users.,5,2026-07-23
+Naveen Hegde,naveen.h@example.com,Jenkins pipeline log inspection made troubleshooting build errors easy.,4,2026-07-24
+Simran Kaur,simran.k@example.com,Exceptional internship project covering all core DevOps competencies.,5,2026-07-25
